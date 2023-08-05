@@ -1,0 +1,2622 @@
+[
+  {
+    "series": [
+      {
+        "id": "ae653c36-b29d-43e2-bc94-ada8a661e5d4",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 72542,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-05T03:27:52.217Z",
+        "updated_at": "2023-08-05T00:12:17.715Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d1afc84a-ddef-49b9-a7f2-aeaa4d2b4045",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 51465,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-05T18:17:22.980Z",
+        "updated_at": "2023-08-05T01:24:10.592Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a727738e-c9c5-4da9-be37-12d46cb87f5c",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 15014,
+        "director": "David Benioff",
+        "description": "A power struggle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-05T15:58:44.485Z",
+        "updated_at": "2023-08-05T06:36:22.478Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b2a7fb4-3a77-4c15-bc25-df416718ed20",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 97603,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T15:40:32.725Z",
+        "updated_at": "2023-08-05T15:05:20.725Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d774d6f3-518e-44dd-b7db-26fcd93c7304",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 50879,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-05T20:40:32.685Z",
+        "updated_at": "2023-08-05T03:49:06.417Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "c5f22860-3dd0-4fec-a57b-dd67b9efd3ff",
+        "season_number": 44498,
+        "created_at": "2023-08-05T06:15:40.090Z",
+        "updated_at": "2023-08-05T04:01:28.551Z",
+        "series_id": "d1afc84a-ddef-49b9-a7f2-aeaa4d2b4045",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d14e646-e544-4421-8785-8a15d4edd81a",
+        "season_number": 13013,
+        "created_at": "2023-08-05T10:27:19.906Z",
+        "updated_at": "2023-08-05T05:49:31.126Z",
+        "series_id": "ae653c36-b29d-43e2-bc94-ada8a661e5d4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e97622d-e8e7-4632-a85a-68b7108e3c28",
+        "season_number": 34891,
+        "created_at": "2023-08-05T11:03:15.920Z",
+        "updated_at": "2023-08-04T21:00:38.297Z",
+        "series_id": "d774d6f3-518e-44dd-b7db-26fcd93c7304",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1799d6fc-a596-4c8b-a7f9-f6de1b02a2b3",
+        "season_number": 30679,
+        "created_at": "2023-08-05T14:11:45.999Z",
+        "updated_at": "2023-08-05T13:11:05.638Z",
+        "series_id": "8b2a7fb4-3a77-4c15-bc25-df416718ed20",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6d91a66-19ba-46b6-be7f-cfaf713789c7",
+        "season_number": 71990,
+        "created_at": "2023-08-04T21:17:40.750Z",
+        "updated_at": "2023-08-05T19:19:20.783Z",
+        "series_id": "d774d6f3-518e-44dd-b7db-26fcd93c7304",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "46ccf53d-0d25-49a6-980c-12c15d9af2cf",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 64960,
+        "director": "Frank Darabont",
+        "duration": 25784,
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency",
+        "created_at": "2023-08-04T21:23:43.841Z",
+        "updated_at": "2023-08-05T16:26:15.664Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad4cf14c-4de8-4ea4-8396-0aabe68016c5",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 34250,
+        "director": "Francis Ford Coppola",
+        "duration": 74303,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son",
+        "created_at": "2023-08-05T00:08:08.758Z",
+        "updated_at": "2023-08-05T12:42:53.640Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "949b776d-acad-41d5-a680-efbdd2e66b97",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 17974,
+        "director": "Quentin Tarantino",
+        "duration": 68785,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption",
+        "created_at": "2023-08-05T20:10:08.386Z",
+        "updated_at": "2023-08-05T10:29:06.412Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df8d9d65-f6e5-42b1-8b4c-15f490fed204",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 61857,
+        "director": "David Fincher",
+        "duration": 16414,
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more",
+        "created_at": "2023-08-05T15:39:52.546Z",
+        "updated_at": "2023-08-05T04:55:12.192Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15928468-36c3-416a-915b-37c1153eb26b",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 89173,
+        "director": "Christopher Nolan",
+        "duration": 3185,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO",
+        "created_at": "2023-08-05T02:21:26.546Z",
+        "updated_at": "2023-08-05T02:32:20.806Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "e285fbeb-0a55-41aa-a549-f07e3bc2c1ec",
+        "episode_number": 32073,
+        "title": "Pilot",
+        "duration": 21000,
+        "created_at": "2023-08-05T10:31:23.030Z",
+        "updated_at": "2023-08-05T17:32:40.816Z",
+        "season_id": "c5f22860-3dd0-4fec-a57b-dd67b9efd3ff",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b151d502-a302-47f5-892c-6a970c3ad813",
+        "episode_number": 52090,
+        "title": "The One Where It All Began",
+        "duration": 98986,
+        "created_at": "2023-08-05T00:31:05.438Z",
+        "updated_at": "2023-08-05T00:48:36.186Z",
+        "season_id": "6e97622d-e8e7-4632-a85a-68b7108e3c28",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8de38e19-5127-496c-bf79-84d39dc228ff",
+        "episode_number": 87246,
+        "title": "Winter Is Coming",
+        "duration": 73186,
+        "created_at": "2023-08-04T23:36:25.787Z",
+        "updated_at": "2023-08-05T02:29:35.253Z",
+        "season_id": "6e97622d-e8e7-4632-a85a-68b7108e3c28",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af8af1c0-35d9-4ebf-a409-ee059753ae41",
+        "episode_number": 89123,
+        "title": "Pilot",
+        "duration": 21844,
+        "created_at": "2023-08-05T06:38:45.368Z",
+        "updated_at": "2023-08-05T09:31:20.124Z",
+        "season_id": "4d14e646-e544-4421-8785-8a15d4edd81a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c937f47d-40a2-4d83-8a93-8b492b980abb",
+        "episode_number": 33959,
+        "title": "Diversity Day",
+        "duration": 83883,
+        "created_at": "2023-08-05T02:28:02.467Z",
+        "updated_at": "2023-08-05T05:00:25.972Z",
+        "season_id": "c5f22860-3dd0-4fec-a57b-dd67b9efd3ff",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "29baa892-d37b-4d0a-a0e7-397d2df3ad4d",
+        "timestamp": "2023-08-04T21:34:45.320Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-05T14:00:09.563Z",
+        "updated_at": "2023-08-05T12:16:01.087Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "582bc95e-610a-4273-9660-d9119af255bc",
+        "timestamp": "2023-08-05T11:57:45.551Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-05T11:46:16.409Z",
+        "updated_at": "2023-08-05T07:52:10.734Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad1d3fa2-655c-468e-88a2-0b499cc33404",
+        "timestamp": "2023-08-05T09:33:22.183Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T10:04:28.751Z",
+        "updated_at": "2023-08-04T21:26:08.953Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0fc08e8-1887-47ec-b2f6-f50a91634600",
+        "timestamp": "2023-08-05T07:47:40.601Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-04T20:52:16.285Z",
+        "updated_at": "2023-08-05T06:26:03.849Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8490959-8096-492b-afea-f4b05af8388d",
+        "timestamp": "2023-08-05T06:02:34.868Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-05T11:11:08.030Z",
+        "updated_at": "2023-08-05T03:44:03.770Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "series": [
+      {
+        "id": "85cc8ce9-eea6-44cb-b109-37c061cc072a",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 1337,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-05T01:08:27.911Z",
+        "updated_at": "2023-08-05T14:10:25.983Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22926f31-4ec7-4004-969f-ba9866dbe141",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 10754,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-05T15:41:58.056Z",
+        "updated_at": "2023-08-05T18:43:31.214Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5a962b6-3089-4d8a-bdc6-39982d749e00",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 16063,
+        "director": "David Benioff",
+        "description": "A power struggle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-04T23:24:56.862Z",
+        "updated_at": "2023-08-05T19:15:51.435Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a5ea37f3-fbd9-4ac2-b34f-ec7a68c4490e",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 86209,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T03:42:20.036Z",
+        "updated_at": "2023-08-05T03:10:50.565Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fff98989-9380-4b6a-844a-72a1b5b5364a",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 27555,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-05T06:39:55.444Z",
+        "updated_at": "2023-08-04T20:52:25.181Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "eb039457-0b11-40e3-b513-da73cc359b16",
+        "season_number": 43229,
+        "created_at": "2023-08-04T22:45:17.749Z",
+        "updated_at": "2023-08-05T14:14:27.669Z",
+        "series_id": "fff98989-9380-4b6a-844a-72a1b5b5364a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f70d4576-b648-4ea2-9bde-a75e9fd5875a",
+        "season_number": 44523,
+        "created_at": "2023-08-05T01:10:24.225Z",
+        "updated_at": "2023-08-05T17:36:03.426Z",
+        "series_id": "22926f31-4ec7-4004-969f-ba9866dbe141",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6177b925-ca7f-4496-8672-ec40d206e513",
+        "season_number": 48606,
+        "created_at": "2023-08-05T07:53:23.884Z",
+        "updated_at": "2023-08-05T08:12:19.778Z",
+        "series_id": "a5ea37f3-fbd9-4ac2-b34f-ec7a68c4490e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "790f59a6-a6af-4710-8faf-6716ac7e1301",
+        "season_number": 5625,
+        "created_at": "2023-08-05T10:29:27.714Z",
+        "updated_at": "2023-08-05T18:43:30.001Z",
+        "series_id": "22926f31-4ec7-4004-969f-ba9866dbe141",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c825b767-6bec-4a53-bdf6-9e6913c8ddfd",
+        "season_number": 49888,
+        "created_at": "2023-08-04T21:52:11.170Z",
+        "updated_at": "2023-08-04T22:03:48.354Z",
+        "series_id": "85cc8ce9-eea6-44cb-b109-37c061cc072a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "ba336bd1-7724-4860-bfa1-c40825c4250e",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 70171,
+        "director": "Frank Darabont",
+        "duration": 69300,
+        "description": "A man's journey through the prison system",
+        "created_at": "2023-08-04T21:14:57.126Z",
+        "updated_at": "2023-08-04T21:06:14.000Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0eb610b8-b2cc-4e00-abff-5b0221b3eb1c",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 48798,
+        "director": "Francis Ford Coppola",
+        "duration": 27197,
+        "description": "The story of a powerful mafia family",
+        "created_at": "2023-08-05T14:45:42.018Z",
+        "updated_at": "2023-08-05T11:13:06.942Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c11a1bb9-3877-4abe-9580-31ecf5f03e96",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 54571,
+        "director": "Quentin Tarantino",
+        "duration": 60164,
+        "description": "Interconnected stories of crime and redemption",
+        "created_at": "2023-08-05T04:19:58.720Z",
+        "updated_at": "2023-08-05T01:28:04.574Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa250ac6-3f19-4e19-9e5a-bd707d87918b",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 86756,
+        "director": "David Fincher",
+        "duration": 78214,
+        "description": "An underground fight club that spirals out of control",
+        "created_at": "2023-08-05T20:34:02.984Z",
+        "updated_at": "2023-08-05T06:49:55.304Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff7a227f-78c6-42b2-b560-31f503cedf45",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 47432,
+        "director": "Christopher Nolan",
+        "duration": 71627,
+        "description": "A thief who steals information from people's dreams",
+        "created_at": "2023-08-05T01:24:08.482Z",
+        "updated_at": "2023-08-05T12:24:56.857Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "306ccb84-f50d-4f1f-be3b-06fd568a1557",
+        "episode_number": 13404,
+        "title": "Pilot",
+        "duration": 90073,
+        "created_at": "2023-08-04T22:43:33.614Z",
+        "updated_at": "2023-08-05T07:14:35.663Z",
+        "season_id": "eb039457-0b11-40e3-b513-da73cc359b16",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ebda8ea6-72df-41ae-baef-8d8e7d157996",
+        "episode_number": 17340,
+        "title": "The One Where It All Began",
+        "duration": 88364,
+        "created_at": "2023-08-05T01:34:06.421Z",
+        "updated_at": "2023-08-05T05:56:28.942Z",
+        "season_id": "f70d4576-b648-4ea2-9bde-a75e9fd5875a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af205aa4-c299-4e78-b02c-dc56d988f38a",
+        "episode_number": 21333,
+        "title": "Winter Is Coming",
+        "duration": 90701,
+        "created_at": "2023-08-04T22:58:34.023Z",
+        "updated_at": "2023-08-05T16:21:46.016Z",
+        "season_id": "eb039457-0b11-40e3-b513-da73cc359b16",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d89db1aa-1f4a-4090-a22b-e3fe1d371bfe",
+        "episode_number": 19692,
+        "title": "The Breaking Bad",
+        "duration": 86985,
+        "created_at": "2023-08-05T03:49:37.400Z",
+        "updated_at": "2023-08-05T13:50:28.563Z",
+        "season_id": "eb039457-0b11-40e3-b513-da73cc359b16",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c2ee0cc-a485-4a2d-bbf0-df56e2e90e13",
+        "episode_number": 32360,
+        "title": "Diversity Day",
+        "duration": 85650,
+        "created_at": "2023-08-05T01:45:08.443Z",
+        "updated_at": "2023-08-05T18:17:59.430Z",
+        "season_id": "eb039457-0b11-40e3-b513-da73cc359b16",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "62c0c41b-1ca9-4de2-afaa-a57e3bee3409",
+        "timestamp": "2023-08-05T11:24:09.118Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-05T11:40:56.302Z",
+        "updated_at": "2023-08-05T06:16:57.577Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd526f56-44e2-4f0f-8dc3-c69164fba73f",
+        "timestamp": "2023-08-05T14:20:56.714Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-05T07:11:34.663Z",
+        "updated_at": "2023-08-05T05:46:15.774Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "acd1f616-09a9-40ca-8c0d-97363421b45b",
+        "timestamp": "2023-08-05T16:05:11.431Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T10:09:51.492Z",
+        "updated_at": "2023-08-04T22:08:19.783Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1bb1ed1f-63fa-40b1-b7e2-53b95bb5928f",
+        "timestamp": "2023-08-05T13:11:27.267Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-04T22:49:20.840Z",
+        "updated_at": "2023-08-05T13:06:40.464Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1f3db52-7711-43b1-8ca0-2327342a13f6",
+        "timestamp": "2023-08-05T13:11:13.512Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-05T19:49:52.316Z",
+        "updated_at": "2023-08-05T14:57:38.812Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "series": [
+      {
+        "id": "0b939db7-1504-4b21-ba5c-33c858620f50",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 34788,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-05T07:59:09.411Z",
+        "updated_at": "2023-08-05T10:33:19.887Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a86f1a7-7731-4c04-878f-69d08fe7e842",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 51998,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-05T16:13:51.052Z",
+        "updated_at": "2023-08-04T23:24:36.596Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa547891-f23e-43d3-b0af-f95e8c46a0fc",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 24625,
+        "director": "David Benioff",
+        "description": "A power struggle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-05T12:30:17.223Z",
+        "updated_at": "2023-08-05T11:38:45.473Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ceb7563-be5f-4efd-9176-209adb13c742",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 74510,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T05:44:04.574Z",
+        "updated_at": "2023-08-05T01:10:10.435Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fdcd8502-cb7f-41b4-8137-5c9b992ba7f5",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 78224,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-05T03:45:22.924Z",
+        "updated_at": "2023-08-05T03:04:32.870Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "199a62b8-7745-4aab-b044-fdaf8db8b95c",
+        "season_number": 79346,
+        "created_at": "2023-08-05T05:11:37.065Z",
+        "updated_at": "2023-08-05T00:31:44.559Z",
+        "series_id": "0ceb7563-be5f-4efd-9176-209adb13c742",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "079f4af1-2f4c-462d-8b66-2e3c4609608f",
+        "season_number": 22334,
+        "created_at": "2023-08-05T16:39:00.309Z",
+        "updated_at": "2023-08-05T13:57:05.840Z",
+        "series_id": "1a86f1a7-7731-4c04-878f-69d08fe7e842",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64a4892e-e296-4d7a-97d6-d6c03cff7420",
+        "season_number": 91488,
+        "created_at": "2023-08-05T03:37:38.455Z",
+        "updated_at": "2023-08-05T11:51:20.388Z",
+        "series_id": "1a86f1a7-7731-4c04-878f-69d08fe7e842",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "020189d0-bab0-4805-9bcc-85d73d07ac45",
+        "season_number": 46769,
+        "created_at": "2023-08-05T17:19:11.142Z",
+        "updated_at": "2023-08-05T16:54:49.260Z",
+        "series_id": "0ceb7563-be5f-4efd-9176-209adb13c742",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "89ef1e1a-e399-4e71-94f4-14a9cf4fd9af",
+        "season_number": 82829,
+        "created_at": "2023-08-05T20:29:58.857Z",
+        "updated_at": "2023-08-05T01:03:26.416Z",
+        "series_id": "0b939db7-1504-4b21-ba5c-33c858620f50",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "6c1dce3e-4269-4d96-a087-4eaec07d6ff0",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 45178,
+        "director": "Frank Darabont",
+        "duration": 29805,
+        "description": "A man's journey through the prison system",
+        "created_at": "2023-08-05T15:38:12.880Z",
+        "updated_at": "2023-08-05T14:00:57.322Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76cb519c-be21-470f-bc03-da18e1485e03",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 9448,
+        "director": "Francis Ford Coppola",
+        "duration": 56178,
+        "description": "The story of a powerful mafia family",
+        "created_at": "2023-08-05T16:02:04.304Z",
+        "updated_at": "2023-08-05T00:54:41.441Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "955a7298-c6c3-4c98-90fc-74aeeefd89a9",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 22201,
+        "director": "Quentin Tarantino",
+        "duration": 31313,
+        "description": "Interconnected stories of crime and redemption",
+        "created_at": "2023-08-05T14:32:38.104Z",
+        "updated_at": "2023-08-05T03:45:22.296Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "048870e3-7caf-4c1c-96fc-7c533ec42927",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 10224,
+        "director": "David Fincher",
+        "duration": 84881,
+        "description": "An underground fight club that spirals out of control",
+        "created_at": "2023-08-05T05:18:06.459Z",
+        "updated_at": "2023-08-04T23:24:43.958Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75c162ca-f83a-446b-abeb-27b7676fdbff",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 71969,
+        "director": "Christopher Nolan",
+        "duration": 55299,
+        "description": "A thief who steals information from people's dreams",
+        "created_at": "2023-08-05T12:45:44.789Z",
+        "updated_at": "2023-08-05T08:56:27.708Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "47910ee1-94e1-4407-b1ff-7a7e7a1f04ea",
+        "episode_number": 42351,
+        "title": "Pilot",
+        "duration": 14450,
+        "created_at": "2023-08-05T03:32:06.216Z",
+        "updated_at": "2023-08-05T11:16:37.834Z",
+        "season_id": "89ef1e1a-e399-4e71-94f4-14a9cf4fd9af",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d10f18c-de06-479a-b607-84f8d92dd97e",
+        "episode_number": 73435,
+        "title": "The One Where It All Began",
+        "duration": 17574,
+        "created_at": "2023-08-04T21:33:30.278Z",
+        "updated_at": "2023-08-05T09:50:38.862Z",
+        "season_id": "079f4af1-2f4c-462d-8b66-2e3c4609608f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9167440-5388-4b11-97c5-b331d7f2d2c4",
+        "episode_number": 10025,
+        "title": "Winter Is Coming",
+        "duration": 10776,
+        "created_at": "2023-08-04T21:02:59.481Z",
+        "updated_at": "2023-08-05T09:16:06.540Z",
+        "season_id": "020189d0-bab0-4805-9bcc-85d73d07ac45",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1245d734-9888-4d10-96aa-b8d2d4422a8f",
+        "episode_number": 54268,
+        "title": "The Breaking Bad",
+        "duration": 32237,
+        "created_at": "2023-08-05T09:51:46.583Z",
+        "updated_at": "2023-08-05T19:13:33.440Z",
+        "season_id": "64a4892e-e296-4d7a-97d6-d6c03cff7420",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06504cc5-aa00-4cbf-8b80-78f1161d89f4",
+        "episode_number": 10968,
+        "title": "Diversity Day",
+        "duration": 18442,
+        "created_at": "2023-08-05T15:42:17.684Z",
+        "updated_at": "2023-08-05T07:37:44.858Z",
+        "season_id": "89ef1e1a-e399-4e71-94f4-14a9cf4fd9af",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "c54c1623-8900-47f5-84f2-d45e6d394500",
+        "timestamp": "2023-08-04T23:11:48.788Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-05T13:54:03.674Z",
+        "updated_at": "2023-08-05T03:52:34.600Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d7a2c9a-146a-4862-830e-dc8ee3e6663c",
+        "timestamp": "2023-08-05T20:30:50.842Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-05T00:20:05.811Z",
+        "updated_at": "2023-08-05T11:18:59.146Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb97955e-cf55-4f08-88a9-d466348bb7e2",
+        "timestamp": "2023-08-05T04:04:56.939Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T13:23:25.878Z",
+        "updated_at": "2023-08-05T12:58:06.461Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2dfdecb8-f53a-470a-be3b-3365cf9baead",
+        "timestamp": "2023-08-05T13:36:44.236Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-05T00:21:36.224Z",
+        "updated_at": "2023-08-04T22:53:26.337Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a9c4976-6461-4398-a6a7-4efd7be76729",
+        "timestamp": "2023-08-05T02:53:58.022Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-04T21:46:23.036Z",
+        "updated_at": "2023-08-05T00:43:21.361Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "series": [
+      {
+        "id": "ae57d3bc-a6d6-4466-b9f3-a679574dc319",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 90293,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-05T04:57:16.784Z",
+        "updated_at": "2023-08-05T03:52:37.741Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b3c52be-2f61-44b7-921a-eac36eb96f31",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 17877,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-05T05:08:34.868Z",
+        "updated_at": "2023-08-05T03:53:15.335Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e73ca25-4eba-4870-b242-1720a2c279e0",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 49635,
+        "director": "David Benioff",
+        "description": "A power struggle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-05T06:37:20.006Z",
+        "updated_at": "2023-08-05T05:05:13.334Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c6dfb575-5986-4a0f-a55e-c7d276e1964f",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 20534,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T04:15:31.650Z",
+        "updated_at": "2023-08-05T05:37:23.832Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "056dd4b5-d8a4-4fbb-b942-068286a24332",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 29919,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-04T23:15:48.288Z",
+        "updated_at": "2023-08-05T00:24:03.923Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "b4f8e110-0b80-4829-8f08-22de99e0e279",
+        "season_number": 36137,
+        "created_at": "2023-08-04T23:39:21.021Z",
+        "updated_at": "2023-08-05T20:20:04.801Z",
+        "series_id": "3e73ca25-4eba-4870-b242-1720a2c279e0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9899f43f-eac2-491e-9c26-e3fa7ae55463",
+        "season_number": 97628,
+        "created_at": "2023-08-05T03:58:34.725Z",
+        "updated_at": "2023-08-05T05:51:40.302Z",
+        "series_id": "ae57d3bc-a6d6-4466-b9f3-a679574dc319",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6667d7ee-f410-43ff-8ee2-b8a7831391e3",
+        "season_number": 59946,
+        "created_at": "2023-08-04T21:31:21.584Z",
+        "updated_at": "2023-08-05T19:08:11.504Z",
+        "series_id": "c6dfb575-5986-4a0f-a55e-c7d276e1964f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82c5a503-feb3-47c8-bb9b-c8f80cbd4cb4",
+        "season_number": 36110,
+        "created_at": "2023-08-05T19:54:57.768Z",
+        "updated_at": "2023-08-05T16:37:07.018Z",
+        "series_id": "3e73ca25-4eba-4870-b242-1720a2c279e0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fb2174f5-9ec0-4752-ba2f-660e49396dce",
+        "season_number": 13949,
+        "created_at": "2023-08-04T21:15:40.533Z",
+        "updated_at": "2023-08-04T23:59:17.099Z",
+        "series_id": "1b3c52be-2f61-44b7-921a-eac36eb96f31",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "956f4952-725b-41d3-9ea8-cde003ff619d",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 28763,
+        "director": "Frank Darabont",
+        "duration": 16725,
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency",
+        "created_at": "2023-08-04T22:10:19.639Z",
+        "updated_at": "2023-08-05T02:31:50.427Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28834ebe-a3e7-4400-a0f2-77c062cb5ed3",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 42509,
+        "director": "Francis Ford Coppola",
+        "duration": 6067,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son",
+        "created_at": "2023-08-04T23:40:17.671Z",
+        "updated_at": "2023-08-04T22:24:10.912Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15119721-dba6-456c-8aed-9dfa2c93c3cb",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 54285,
+        "director": "Quentin Tarantino",
+        "duration": 11530,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption",
+        "created_at": "2023-08-05T02:07:06.643Z",
+        "updated_at": "2023-08-05T12:13:24.388Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b3317f70-ecd6-4e5f-9031-350ef089bb9c",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 99972,
+        "director": "David Fincher",
+        "duration": 38928,
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more",
+        "created_at": "2023-08-05T03:12:17.003Z",
+        "updated_at": "2023-08-05T17:39:03.511Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70617b4f-cde3-45f3-a8f1-07ce7d9391ab",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 23975,
+        "director": "Christopher Nolan",
+        "duration": 7546,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO",
+        "created_at": "2023-08-05T10:22:03.103Z",
+        "updated_at": "2023-08-04T22:42:26.866Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "01e8110b-0270-4ef4-8b72-a02180d3d3b2",
+        "episode_number": 28857,
+        "title": "Pilot",
+        "duration": 43895,
+        "created_at": "2023-08-05T09:37:22.844Z",
+        "updated_at": "2023-08-05T13:14:35.749Z",
+        "season_id": "9899f43f-eac2-491e-9c26-e3fa7ae55463",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "366e94ce-bb70-4bfb-8799-1e4c43cd06ff",
+        "episode_number": 12530,
+        "title": "The One Where It All Began",
+        "duration": 68337,
+        "created_at": "2023-08-05T15:40:19.873Z",
+        "updated_at": "2023-08-05T00:46:37.942Z",
+        "season_id": "6667d7ee-f410-43ff-8ee2-b8a7831391e3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4886b105-ffae-4c91-bf4c-2d62c3adb4fe",
+        "episode_number": 85810,
+        "title": "Winter Is Coming",
+        "duration": 12432,
+        "created_at": "2023-08-05T12:01:45.781Z",
+        "updated_at": "2023-08-05T20:27:25.564Z",
+        "season_id": "b4f8e110-0b80-4829-8f08-22de99e0e279",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24a5dd6a-bf29-4ee4-a60a-99ae55021dcc",
+        "episode_number": 47973,
+        "title": "Pilot",
+        "duration": 74319,
+        "created_at": "2023-08-05T11:22:36.155Z",
+        "updated_at": "2023-08-05T16:38:06.505Z",
+        "season_id": "b4f8e110-0b80-4829-8f08-22de99e0e279",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea23ad3c-5079-4b34-a39e-59c2b57e8a40",
+        "episode_number": 42524,
+        "title": "Diversity Day",
+        "duration": 57106,
+        "created_at": "2023-08-05T10:51:43.657Z",
+        "updated_at": "2023-08-04T21:22:32.098Z",
+        "season_id": "fb2174f5-9ec0-4752-ba2f-660e49396dce",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "71d1ccf8-97de-4a1e-ba6f-7ffd90a5d263",
+        "timestamp": "2023-08-05T11:01:14.599Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-04T23:27:48.220Z",
+        "updated_at": "2023-08-05T20:35:14.818Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c55e54b2-8fdc-4bad-aace-8fe7e1d300bb",
+        "timestamp": "2023-08-05T00:25:23.549Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-05T08:32:14.095Z",
+        "updated_at": "2023-08-05T08:43:47.059Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76801d4f-c979-418e-81e9-e527b93ef721",
+        "timestamp": "2023-08-05T08:58:18.588Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T03:33:43.979Z",
+        "updated_at": "2023-08-05T11:55:12.425Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d8696b5-5e7d-4efd-8cb3-c300989d1482",
+        "timestamp": "2023-08-04T21:41:13.965Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-05T13:28:50.212Z",
+        "updated_at": "2023-08-05T11:21:57.347Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3990a53f-11ee-4447-a1c1-51cdf88c23a0",
+        "timestamp": "2023-08-05T06:28:15.319Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-05T12:36:02.115Z",
+        "updated_at": "2023-08-05T09:36:14.283Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "series": [
+      {
+        "id": "f60870b5-30d0-4491-b77c-f952d4f16422",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 24396,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-05T10:13:27.462Z",
+        "updated_at": "2023-08-05T03:14:08.188Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd7a2a52-ba75-4247-a3eb-01a1fe9e15cc",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 89681,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-05T03:32:50.844Z",
+        "updated_at": "2023-08-05T07:21:54.675Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9be2d2f-f858-44e5-a35f-d9538130387e",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 43792,
+        "director": "David Benioff",
+        "description": "A power struggle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-05T17:49:01.420Z",
+        "updated_at": "2023-08-05T04:19:18.970Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d56f12ba-72ae-41b4-9c8a-b60729bfd8bb",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 92762,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T03:59:14.234Z",
+        "updated_at": "2023-08-05T13:09:31.214Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa7bfb35-fd99-47b9-b71c-8616da0f5c7e",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 32833,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-05T03:48:09.943Z",
+        "updated_at": "2023-08-05T16:04:13.918Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "c17126bb-3b4a-4744-a81e-081bc1fa2856",
+        "season_number": 8897,
+        "created_at": "2023-08-05T01:30:32.611Z",
+        "updated_at": "2023-08-05T19:18:15.476Z",
+        "series_id": "fa7bfb35-fd99-47b9-b71c-8616da0f5c7e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d9fe9d3f-efdb-45c7-b6db-8e16833da263",
+        "season_number": 2515,
+        "created_at": "2023-08-05T19:29:18.722Z",
+        "updated_at": "2023-08-05T02:06:45.960Z",
+        "series_id": "fa7bfb35-fd99-47b9-b71c-8616da0f5c7e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6bd6485e-15ec-4ffd-837a-1452da524c32",
+        "season_number": 85170,
+        "created_at": "2023-08-04T23:29:49.113Z",
+        "updated_at": "2023-08-05T08:11:51.240Z",
+        "series_id": "f60870b5-30d0-4491-b77c-f952d4f16422",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1fbc1ddb-c4e2-4856-bcdb-6850851bfd3d",
+        "season_number": 88318,
+        "created_at": "2023-08-05T11:59:21.045Z",
+        "updated_at": "2023-08-05T06:20:11.288Z",
+        "series_id": "b9be2d2f-f858-44e5-a35f-d9538130387e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5007d5c-e426-4895-8282-4b622ac36782",
+        "season_number": 40274,
+        "created_at": "2023-08-05T09:00:25.478Z",
+        "updated_at": "2023-08-05T20:03:20.761Z",
+        "series_id": "fd7a2a52-ba75-4247-a3eb-01a1fe9e15cc",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "0978ed09-68f6-4e93-adba-590c8c3f7178",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 71719,
+        "director": "Frank Darabont",
+        "duration": 55149,
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency",
+        "created_at": "2023-08-05T12:09:26.603Z",
+        "updated_at": "2023-08-04T23:33:43.599Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ec0a9f8-edc2-46e9-bb47-6faa4bb7cebb",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 60053,
+        "director": "Francis Ford Coppola",
+        "duration": 71691,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son",
+        "created_at": "2023-08-05T17:24:26.144Z",
+        "updated_at": "2023-08-05T13:32:32.204Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7b57f30-20c8-413c-8c2b-7d7e69b6c3a2",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 72383,
+        "director": "Quentin Tarantino",
+        "duration": 79167,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption",
+        "created_at": "2023-08-05T19:20:05.958Z",
+        "updated_at": "2023-08-04T21:42:24.872Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a50cf5b-29c3-43f7-94fa-c89dbed0a85c",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 71046,
+        "director": "David Fincher",
+        "duration": 9915,
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more",
+        "created_at": "2023-08-05T14:20:13.308Z",
+        "updated_at": "2023-08-05T05:04:04.779Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cdd98377-66bd-4b0f-a456-c633638077d0",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 30806,
+        "director": "Christopher Nolan",
+        "duration": 84475,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "created_at": "2023-08-05T10:22:14.151Z",
+        "updated_at": "2023-08-05T17:15:50.542Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "6ea454b8-25fb-4b5d-bcec-6f08802bd185",
+        "episode_number": 15852,
+        "title": "Pilot",
+        "duration": 21308,
+        "created_at": "2023-08-05T00:51:09.173Z",
+        "updated_at": "2023-08-05T09:19:23.240Z",
+        "season_id": "c17126bb-3b4a-4744-a81e-081bc1fa2856",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae7444ba-4eb3-47a6-8271-56a8792bbbaf",
+        "episode_number": 55143,
+        "title": "The One Where It All Began",
+        "duration": 93340,
+        "created_at": "2023-08-05T18:54:22.533Z",
+        "updated_at": "2023-08-05T05:13:49.630Z",
+        "season_id": "c5007d5c-e426-4895-8282-4b622ac36782",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30db9435-f858-46f8-b172-0b522ae3173c",
+        "episode_number": 40578,
+        "title": "Winter Is Coming",
+        "duration": 24055,
+        "created_at": "2023-08-05T11:32:05.305Z",
+        "updated_at": "2023-08-05T09:29:40.021Z",
+        "season_id": "c5007d5c-e426-4895-8282-4b622ac36782",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e986276d-9610-41a1-a5dc-6e989bda3e31",
+        "episode_number": 67800,
+        "title": "The One with the Embryos",
+        "duration": 45728,
+        "created_at": "2023-08-04T23:19:14.920Z",
+        "updated_at": "2023-08-05T10:18:55.387Z",
+        "season_id": "c17126bb-3b4a-4744-a81e-081bc1fa2856",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7faa4479-23fa-4b02-9371-3e2123c99b6f",
+        "episode_number": 42046,
+        "title": "Diversity Day",
+        "duration": 74068,
+        "created_at": "2023-08-05T06:09:34.207Z",
+        "updated_at": "2023-08-05T02:13:07.130Z",
+        "season_id": "c17126bb-3b4a-4744-a81e-081bc1fa2856",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "7203497a-2a4d-45b2-8039-095dc30bea63",
+        "timestamp": "2023-08-05T08:08:04.903Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-05T01:04:39.006Z",
+        "updated_at": "2023-08-05T10:37:07.470Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f138cfc8-22d6-43ff-9428-9404a45b06ac",
+        "timestamp": "2023-08-05T04:07:56.014Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-04T21:32:27.084Z",
+        "updated_at": "2023-08-04T23:21:19.579Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "606ba887-65b6-47b2-bcb2-939fa891785f",
+        "timestamp": "2023-08-05T19:35:22.365Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T02:49:06.828Z",
+        "updated_at": "2023-08-05T13:04:37.485Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0bc278b0-ef6a-4f38-ad66-23b7d88dd37d",
+        "timestamp": "2023-08-05T11:33:43.936Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-05T00:42:19.674Z",
+        "updated_at": "2023-08-05T04:18:15.300Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53ebaa7a-4838-4f42-8c4f-17004a778590",
+        "timestamp": "2023-08-05T08:50:04.403Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-05T08:11:19.405Z",
+        "updated_at": "2023-08-04T21:54:18.737Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "series": [
+      {
+        "id": "5a6fe3d9-c3ca-40ca-8f95-0c88965062e1",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 99554,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-05T17:50:37.315Z",
+        "updated_at": "2023-08-05T00:17:50.109Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e622bec-4300-4e2a-9086-cd963aa2823c",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 5426,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-05T18:04:46.172Z",
+        "updated_at": "2023-08-05T00:00:52.736Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f03605f4-61f1-4c02-b8b3-06c6a6d69203",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 39394,
+        "director": "David Benioff",
+        "description": "A battle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-04T21:28:12.528Z",
+        "updated_at": "2023-08-04T23:09:29.110Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2fb4b1ad-49bb-4765-8a71-54c5d6384ce3",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 24650,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T14:43:51.038Z",
+        "updated_at": "2023-08-05T02:42:54.900Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0537b10b-95e0-4f7f-9e16-bea40d8c33ff",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 85578,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-05T07:48:47.290Z",
+        "updated_at": "2023-08-05T06:07:55.169Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "f3d0f7fd-5bfb-430e-bdf8-f6affbafc349",
+        "season_number": 20878,
+        "created_at": "2023-08-05T04:25:15.945Z",
+        "updated_at": "2023-08-05T04:00:24.110Z",
+        "series_id": "2fb4b1ad-49bb-4765-8a71-54c5d6384ce3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "323e1f3d-2771-49f5-9b5c-8cbb549029f7",
+        "season_number": 13622,
+        "created_at": "2023-08-04T20:50:33.000Z",
+        "updated_at": "2023-08-05T16:41:56.792Z",
+        "series_id": "0537b10b-95e0-4f7f-9e16-bea40d8c33ff",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "910e3dcc-e4ca-4a63-aedb-e65142ed18e5",
+        "season_number": 31816,
+        "created_at": "2023-08-05T01:40:27.278Z",
+        "updated_at": "2023-08-05T10:25:55.397Z",
+        "series_id": "5a6fe3d9-c3ca-40ca-8f95-0c88965062e1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3908dc36-8a36-481a-a251-82026f32235a",
+        "season_number": 70253,
+        "created_at": "2023-08-05T16:03:29.176Z",
+        "updated_at": "2023-08-05T14:33:21.802Z",
+        "series_id": "0537b10b-95e0-4f7f-9e16-bea40d8c33ff",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4edeb43f-78fa-4269-a460-b810c0d11a06",
+        "season_number": 44807,
+        "created_at": "2023-08-04T22:04:13.270Z",
+        "updated_at": "2023-08-05T07:56:21.024Z",
+        "series_id": "0537b10b-95e0-4f7f-9e16-bea40d8c33ff",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "443f7573-ad23-4bb9-8959-33161a3f0d39",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 33912,
+        "director": "Frank Darabont",
+        "duration": 24316,
+        "description": "A man's journey through the prison system",
+        "created_at": "2023-08-05T08:10:19.824Z",
+        "updated_at": "2023-08-04T20:50:15.241Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a9e2e17-c13d-4609-b732-f9beb3edccaa",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 88857,
+        "director": "Francis Ford Coppola",
+        "duration": 47372,
+        "description": "The story of a powerful mafia family",
+        "created_at": "2023-08-04T23:08:09.044Z",
+        "updated_at": "2023-08-05T00:19:16.132Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e0948fb-72ff-4022-b29f-5fe2ac96c614",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 16324,
+        "director": "Quentin Tarantino",
+        "duration": 99601,
+        "description": "Interconnected stories of crime and redemption",
+        "created_at": "2023-08-04T21:09:23.742Z",
+        "updated_at": "2023-08-05T14:30:58.816Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0b26f87f-0d84-4d67-9eca-4ccb79e481be",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 60767,
+        "director": "David Fincher",
+        "duration": 28581,
+        "description": "An underground fight club that spirals out of control",
+        "created_at": "2023-08-05T04:00:27.731Z",
+        "updated_at": "2023-08-05T17:48:29.815Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cfdc3b1d-7fcf-42ea-bc4f-96ce534aac86",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 17733,
+        "director": "Christopher Nolan",
+        "duration": 32156,
+        "description": "A thief who steals information from people's dreams",
+        "created_at": "2023-08-05T13:01:58.540Z",
+        "updated_at": "2023-08-05T05:05:39.619Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "d3d7d2d6-cd5b-49f2-9d22-f587306e681a",
+        "episode_number": 84352,
+        "title": "Pilot",
+        "duration": 74158,
+        "created_at": "2023-08-05T06:02:11.853Z",
+        "updated_at": "2023-08-05T08:28:26.604Z",
+        "season_id": "910e3dcc-e4ca-4a63-aedb-e65142ed18e5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b10e5100-30f9-4584-b011-97f35be12c14",
+        "episode_number": 35166,
+        "title": "The One Where It All Began",
+        "duration": 21566,
+        "created_at": "2023-08-05T19:53:37.178Z",
+        "updated_at": "2023-08-05T16:19:12.010Z",
+        "season_id": "f3d0f7fd-5bfb-430e-bdf8-f6affbafc349",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "57512c6a-911c-4933-bab3-a1a6e5534745",
+        "episode_number": 18357,
+        "title": "Winter Is Coming",
+        "duration": 79878,
+        "created_at": "2023-08-05T01:30:59.727Z",
+        "updated_at": "2023-08-05T14:54:02.355Z",
+        "season_id": "f3d0f7fd-5bfb-430e-bdf8-f6affbafc349",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0cccbcc-1395-488a-9cec-4cc40a2c4208",
+        "episode_number": 33625,
+        "title": "The One with the Embryos",
+        "duration": 91371,
+        "created_at": "2023-08-05T11:59:20.396Z",
+        "updated_at": "2023-08-05T15:01:12.476Z",
+        "season_id": "3908dc36-8a36-481a-a251-82026f32235a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c33be7e-41de-41d8-92c4-a4a2a2e8ccc3",
+        "episode_number": 22650,
+        "title": "Diversity Day",
+        "duration": 90540,
+        "created_at": "2023-08-04T23:45:31.817Z",
+        "updated_at": "2023-08-05T18:08:27.779Z",
+        "season_id": "910e3dcc-e4ca-4a63-aedb-e65142ed18e5",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "df491a58-6192-46b1-be4b-2cdbaa63610f",
+        "timestamp": "2023-08-05T00:29:36.236Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-05T03:00:07.790Z",
+        "updated_at": "2023-08-05T14:47:01.593Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f804ed99-55b1-4c4d-b558-8c3d54a01606",
+        "timestamp": "2023-08-05T14:52:32.231Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-05T00:09:53.074Z",
+        "updated_at": "2023-08-05T03:48:13.862Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b78aaca9-7e6f-4ae9-a1ce-8a8c72b0debb",
+        "timestamp": "2023-08-05T06:00:55.695Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T01:17:14.086Z",
+        "updated_at": "2023-08-05T01:05:10.165Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a920dcb7-bcdc-48d4-9b03-e004ec515408",
+        "timestamp": "2023-08-05T17:59:27.639Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-05T11:09:19.836Z",
+        "updated_at": "2023-08-05T04:55:02.923Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bbb4ca78-918e-46d2-850c-f1dd3fc6a575",
+        "timestamp": "2023-08-04T21:25:22.609Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-05T17:47:51.627Z",
+        "updated_at": "2023-08-05T08:53:06.362Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "series": [
+      {
+        "id": "e63192bb-575d-4cdc-8f65-90f2b2b25bf6",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 79908,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-05T03:18:40.429Z",
+        "updated_at": "2023-08-05T07:20:36.017Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6d47474-18fa-407a-af4e-14f35cd35543",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 97040,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-04T21:56:31.236Z",
+        "updated_at": "2023-08-05T11:15:32.478Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17c356c1-b88c-433f-98c3-ec8dbf919f36",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 24992,
+        "director": "David Benioff",
+        "description": "A battle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-05T06:03:55.920Z",
+        "updated_at": "2023-08-05T12:18:56.656Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ee256c2-1c81-4893-ae19-76f868889b70",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 31629,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T12:23:40.971Z",
+        "updated_at": "2023-08-05T18:10:11.711Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "592fc3a5-10a1-4411-b6f5-aff793603a8d",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 2275,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-05T18:15:00.924Z",
+        "updated_at": "2023-08-05T13:29:07.208Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "dcb19fa9-9eb9-4b7f-8aa7-b3cead49fba9",
+        "season_number": 79860,
+        "created_at": "2023-08-05T18:05:44.605Z",
+        "updated_at": "2023-08-05T10:50:48.737Z",
+        "series_id": "4ee256c2-1c81-4893-ae19-76f868889b70",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "023afedc-fd62-431f-8d29-794fa5315019",
+        "season_number": 48776,
+        "created_at": "2023-08-05T13:34:24.585Z",
+        "updated_at": "2023-08-05T03:34:50.157Z",
+        "series_id": "17c356c1-b88c-433f-98c3-ec8dbf919f36",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e6ba6846-a6b2-4b59-93e5-0bdcd867bb35",
+        "season_number": 86304,
+        "created_at": "2023-08-05T15:23:43.163Z",
+        "updated_at": "2023-08-05T20:18:55.358Z",
+        "series_id": "a6d47474-18fa-407a-af4e-14f35cd35543",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e7dab34-371d-42d4-999b-43034d8b01c5",
+        "season_number": 46014,
+        "created_at": "2023-08-05T03:31:57.942Z",
+        "updated_at": "2023-08-05T15:44:16.036Z",
+        "series_id": "e63192bb-575d-4cdc-8f65-90f2b2b25bf6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39122299-08d5-446a-a1ce-fd4a43094285",
+        "season_number": 56813,
+        "created_at": "2023-08-05T18:35:11.079Z",
+        "updated_at": "2023-08-05T19:52:56.884Z",
+        "series_id": "4ee256c2-1c81-4893-ae19-76f868889b70",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "3c3c1a58-de45-4a33-ab5c-71fd36418719",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 90375,
+        "director": "Frank Darabont",
+        "duration": 81568,
+        "description": "A man's journey through the prison system",
+        "created_at": "2023-08-05T10:23:48.385Z",
+        "updated_at": "2023-08-05T02:04:43.076Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5cb59bef-882f-4d9f-97fb-a6c49a9a4cbc",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 38433,
+        "director": "Francis Ford Coppola",
+        "duration": 88168,
+        "description": "The story of a powerful mafia family",
+        "created_at": "2023-08-05T14:18:50.360Z",
+        "updated_at": "2023-08-04T22:01:14.932Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "088f5807-8f58-4825-a65c-017649c5fdaf",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 61904,
+        "director": "Quentin Tarantino",
+        "duration": 21242,
+        "description": "Interconnected stories of crime and redemption",
+        "created_at": "2023-08-05T02:11:02.130Z",
+        "updated_at": "2023-08-04T22:19:28.953Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4beffe5e-bbda-4ad2-9f40-a31ab879e65b",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 14883,
+        "director": "David Fincher",
+        "duration": 26962,
+        "description": "An underground fight club that spirals out of control",
+        "created_at": "2023-08-05T16:04:39.536Z",
+        "updated_at": "2023-08-04T22:21:42.680Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "220b2de2-a325-4b84-850e-9d108b55c8bb",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 62704,
+        "director": "Christopher Nolan",
+        "duration": 81307,
+        "description": "A thief who steals information from people's dreams",
+        "created_at": "2023-08-05T07:52:33.786Z",
+        "updated_at": "2023-08-05T16:26:57.791Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "f30e21e5-b9a1-455b-aaf6-c9311fd46c1d",
+        "episode_number": 31746,
+        "title": "Pilot",
+        "duration": 301,
+        "created_at": "2023-08-05T01:05:27.930Z",
+        "updated_at": "2023-08-05T10:48:04.163Z",
+        "season_id": "dcb19fa9-9eb9-4b7f-8aa7-b3cead49fba9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "275d0f9a-207e-4aa6-8b2c-f0cde64f7ea3",
+        "episode_number": 57685,
+        "title": "The One Where It All Began",
+        "duration": 32718,
+        "created_at": "2023-08-05T10:02:41.391Z",
+        "updated_at": "2023-08-05T14:02:31.792Z",
+        "season_id": "e6ba6846-a6b2-4b59-93e5-0bdcd867bb35",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d19d9c7b-4921-40c4-8de3-f5defa010e40",
+        "episode_number": 99492,
+        "title": "Winter Is Coming",
+        "duration": 9222,
+        "created_at": "2023-08-05T20:00:18.678Z",
+        "updated_at": "2023-08-05T01:26:51.321Z",
+        "season_id": "023afedc-fd62-431f-8d29-794fa5315019",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0b424aa-305f-479b-8869-dfbfff52dcae",
+        "episode_number": 3771,
+        "title": "The One with the Embryos",
+        "duration": 40501,
+        "created_at": "2023-08-05T07:30:59.247Z",
+        "updated_at": "2023-08-05T03:31:50.882Z",
+        "season_id": "023afedc-fd62-431f-8d29-794fa5315019",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53314d28-cd21-40ce-8a30-b2005005c4da",
+        "episode_number": 13486,
+        "title": "Diversity Day",
+        "duration": 98438,
+        "created_at": "2023-08-05T01:09:56.327Z",
+        "updated_at": "2023-08-05T00:23:31.774Z",
+        "season_id": "dcb19fa9-9eb9-4b7f-8aa7-b3cead49fba9",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "0444a900-ef17-42c4-b97e-0087f03c36c9",
+        "timestamp": "2023-08-05T02:46:35.660Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-05T20:30:26.203Z",
+        "updated_at": "2023-08-05T01:17:31.478Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26c60fb7-0405-4c1a-a8df-e79d4daf6502",
+        "timestamp": "2023-08-05T10:05:33.217Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-05T10:30:21.839Z",
+        "updated_at": "2023-08-04T20:49:32.375Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e453259-d00a-4df7-a67e-de12c4871c6b",
+        "timestamp": "2023-08-05T16:00:11.406Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T09:54:00.631Z",
+        "updated_at": "2023-08-04T20:55:41.172Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61f65e2c-255d-4eb6-9884-e7ad5eaf5c7f",
+        "timestamp": "2023-08-05T03:14:53.915Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-05T19:46:45.577Z",
+        "updated_at": "2023-08-05T11:45:00.686Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "803aa9cc-b97d-4ff7-9d34-8aaeb501de3a",
+        "timestamp": "2023-08-04T23:34:31.999Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-05T16:01:46.385Z",
+        "updated_at": "2023-08-05T03:34:50.385Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "series": [
+      {
+        "id": "b97cb8b2-4b53-4c70-a2a9-802e400a36fe",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 51127,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-05T08:41:04.371Z",
+        "updated_at": "2023-08-04T22:59:07.194Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1acbb024-d55e-4b6b-a1aa-026f483b4b96",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 15675,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-05T08:20:26.974Z",
+        "updated_at": "2023-08-05T12:15:40.523Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "084568e1-8d3e-4d97-a8bd-a0ca18c81ca4",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 3271,
+        "director": "David Benioff",
+        "description": "A power struggle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-05T05:37:24.363Z",
+        "updated_at": "2023-08-04T22:22:55.553Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "feb035e3-e93e-46a7-933b-2ff6f0c2f6a3",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 34987,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T02:18:56.139Z",
+        "updated_at": "2023-08-05T14:45:35.143Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "03fd9ab7-8bab-409d-aa1a-c363a0abb2b1",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 78868,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-05T01:32:04.819Z",
+        "updated_at": "2023-08-05T15:01:06.907Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "0da00506-4f2f-44e6-a43b-d16634534770",
+        "season_number": 32957,
+        "created_at": "2023-08-05T13:36:46.812Z",
+        "updated_at": "2023-08-04T23:25:11.255Z",
+        "series_id": "b97cb8b2-4b53-4c70-a2a9-802e400a36fe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac60f21b-541e-4c2f-9a16-b325f88a4032",
+        "season_number": 21751,
+        "created_at": "2023-08-05T11:26:18.243Z",
+        "updated_at": "2023-08-05T07:49:58.134Z",
+        "series_id": "084568e1-8d3e-4d97-a8bd-a0ca18c81ca4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "47ee733f-8d7e-4e7e-8638-33d3001d4592",
+        "season_number": 83243,
+        "created_at": "2023-08-05T13:21:58.698Z",
+        "updated_at": "2023-08-05T09:52:56.143Z",
+        "series_id": "b97cb8b2-4b53-4c70-a2a9-802e400a36fe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd0d67e1-4b2a-4ac4-af4b-398f476df032",
+        "season_number": 35862,
+        "created_at": "2023-08-05T05:45:55.945Z",
+        "updated_at": "2023-08-05T15:27:37.181Z",
+        "series_id": "03fd9ab7-8bab-409d-aa1a-c363a0abb2b1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "79ee2981-6978-4368-b563-1ddf7354e927",
+        "season_number": 44800,
+        "created_at": "2023-08-05T06:43:28.379Z",
+        "updated_at": "2023-08-05T16:32:02.822Z",
+        "series_id": "1acbb024-d55e-4b6b-a1aa-026f483b4b96",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "1dd96c4e-b4cb-417d-a6ff-1b4ddba59131",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 97166,
+        "director": "Frank Darabont",
+        "duration": 53413,
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency",
+        "created_at": "2023-08-05T15:06:32.314Z",
+        "updated_at": "2023-08-05T17:33:08.423Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "382f5514-8438-4da2-b7e0-0361c1979568",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 58012,
+        "director": "Francis Ford Coppola",
+        "duration": 3059,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son",
+        "created_at": "2023-08-05T15:06:54.917Z",
+        "updated_at": "2023-08-05T07:16:53.291Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69e9d471-cc08-463d-b1e9-9fc387fe0408",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 55354,
+        "director": "Quentin Tarantino",
+        "duration": 93273,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption",
+        "created_at": "2023-08-05T18:12:02.973Z",
+        "updated_at": "2023-08-05T15:16:17.261Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c8b70b5-fbd9-42bf-abf9-a7fd81b2c184",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 86254,
+        "director": "David Fincher",
+        "duration": 17555,
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more",
+        "created_at": "2023-08-05T01:18:00.463Z",
+        "updated_at": "2023-08-05T19:31:49.066Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "86a40886-3cb6-4e30-bf4b-2c8ceb5ec067",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 86156,
+        "director": "Christopher Nolan",
+        "duration": 8384,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "created_at": "2023-08-05T12:14:18.743Z",
+        "updated_at": "2023-08-05T14:41:55.894Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "94d9186d-18df-4616-b5a1-c73a734194b5",
+        "episode_number": 36909,
+        "title": "Pilot",
+        "duration": 38059,
+        "created_at": "2023-08-05T00:31:07.182Z",
+        "updated_at": "2023-08-05T12:08:05.405Z",
+        "season_id": "ac60f21b-541e-4c2f-9a16-b325f88a4032",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71d6971c-7d9e-4cce-add5-8f0e7995812c",
+        "episode_number": 40097,
+        "title": "The One Where It All Began",
+        "duration": 74088,
+        "created_at": "2023-08-05T05:04:50.985Z",
+        "updated_at": "2023-08-04T22:17:29.430Z",
+        "season_id": "cd0d67e1-4b2a-4ac4-af4b-398f476df032",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0774c1a0-56eb-4a39-8b74-4089e512b80a",
+        "episode_number": 83130,
+        "title": "Winter Is Coming",
+        "duration": 22204,
+        "created_at": "2023-08-05T05:00:43.196Z",
+        "updated_at": "2023-08-05T17:21:23.940Z",
+        "season_id": "ac60f21b-541e-4c2f-9a16-b325f88a4032",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "831cb05d-dce7-48fa-a18e-abb224523f00",
+        "episode_number": 66582,
+        "title": "The One with the Embryos",
+        "duration": 48916,
+        "created_at": "2023-08-05T12:27:14.033Z",
+        "updated_at": "2023-08-05T13:14:33.506Z",
+        "season_id": "79ee2981-6978-4368-b563-1ddf7354e927",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f5ed903-d05c-4bdf-8cff-7db5f46b630f",
+        "episode_number": 94912,
+        "title": "Diversity Day",
+        "duration": 97376,
+        "created_at": "2023-08-05T09:26:02.843Z",
+        "updated_at": "2023-08-04T22:02:41.184Z",
+        "season_id": "47ee733f-8d7e-4e7e-8638-33d3001d4592",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "6845250b-21a0-46b5-8c9c-b74d9e3f9eee",
+        "timestamp": "2023-08-05T07:25:14.384Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-05T13:37:07.247Z",
+        "updated_at": "2023-08-05T19:06:56.990Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aedeacfc-e8aa-4416-bc1e-34431a8e6a22",
+        "timestamp": "2023-08-05T04:42:05.353Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-05T17:37:42.012Z",
+        "updated_at": "2023-08-05T08:15:10.782Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca9a125e-57c2-4e77-ad1c-b862c268cc85",
+        "timestamp": "2023-08-04T21:45:06.984Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T11:50:00.216Z",
+        "updated_at": "2023-08-05T12:45:54.088Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ad93069-f33f-4a09-8422-d6f606500a14",
+        "timestamp": "2023-08-05T09:46:46.774Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-04T21:58:55.280Z",
+        "updated_at": "2023-08-05T04:01:52.522Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50e32167-f16e-42a9-ad00-4135501e1e74",
+        "timestamp": "2023-08-05T01:41:39.515Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-05T19:23:04.840Z",
+        "updated_at": "2023-08-05T09:00:06.249Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "series": [
+      {
+        "id": "9422a749-ad30-4d89-94a9-f775a9f7f076",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 80422,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-05T17:59:40.438Z",
+        "updated_at": "2023-08-04T22:24:11.412Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cf3336f5-8bc7-43af-be16-ce03e27c5b4e",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 34447,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-05T18:47:54.054Z",
+        "updated_at": "2023-08-05T01:43:40.788Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd958ab8-83f0-451e-8962-40345f5966f2",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 99401,
+        "director": "David Benioff",
+        "description": "A battle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-04T20:50:59.430Z",
+        "updated_at": "2023-08-05T19:17:28.004Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7df9fdba-9fc9-4aac-b5a1-f8f451a43afa",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 51467,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T18:05:05.248Z",
+        "updated_at": "2023-08-05T06:01:43.493Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "231ed636-001d-4746-92f5-d1bf89db2711",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 55469,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-05T07:11:12.023Z",
+        "updated_at": "2023-08-04T21:11:26.907Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "bb3b4fea-a97b-4b2d-b9c6-0739db4f081c",
+        "season_number": 65831,
+        "created_at": "2023-08-05T12:18:46.566Z",
+        "updated_at": "2023-08-05T05:07:02.210Z",
+        "series_id": "7df9fdba-9fc9-4aac-b5a1-f8f451a43afa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b5215f8-6fff-4248-a46d-d114512d50a1",
+        "season_number": 39988,
+        "created_at": "2023-08-04T22:11:35.307Z",
+        "updated_at": "2023-08-04T22:35:58.848Z",
+        "series_id": "cf3336f5-8bc7-43af-be16-ce03e27c5b4e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca4456e9-5bd9-4776-9608-401e8a21359f",
+        "season_number": 98475,
+        "created_at": "2023-08-05T19:53:36.805Z",
+        "updated_at": "2023-08-05T04:08:48.146Z",
+        "series_id": "fd958ab8-83f0-451e-8962-40345f5966f2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ff747e8-0bd5-4e24-bb7c-21013fbf11b6",
+        "season_number": 86322,
+        "created_at": "2023-08-05T09:47:12.086Z",
+        "updated_at": "2023-08-05T19:10:17.044Z",
+        "series_id": "cf3336f5-8bc7-43af-be16-ce03e27c5b4e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c6e43c8-f1ee-4cbe-b68b-6fd590775384",
+        "season_number": 54789,
+        "created_at": "2023-08-05T04:08:15.328Z",
+        "updated_at": "2023-08-05T10:16:06.789Z",
+        "series_id": "fd958ab8-83f0-451e-8962-40345f5966f2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "fa369db6-31bf-4280-86a6-1b2035d745fb",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 56905,
+        "director": "Frank Darabont",
+        "duration": 57003,
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency",
+        "created_at": "2023-08-05T19:04:52.937Z",
+        "updated_at": "2023-08-04T21:50:47.694Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11100a19-288b-43f5-98e6-b23b408105fe",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 15433,
+        "director": "Francis Ford Coppola",
+        "duration": 59272,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son",
+        "created_at": "2023-08-05T14:21:57.094Z",
+        "updated_at": "2023-08-05T18:16:21.038Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d3fc55a-a0da-45cb-91e7-75fb79de9057",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 13061,
+        "director": "Quentin Tarantino",
+        "duration": 64885,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption",
+        "created_at": "2023-08-05T11:58:36.347Z",
+        "updated_at": "2023-08-05T08:58:32.313Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef733eb3-0732-425c-9210-30f587fcc3c4",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 52690,
+        "director": "David Fincher",
+        "duration": 80909,
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more",
+        "created_at": "2023-08-05T02:37:44.252Z",
+        "updated_at": "2023-08-05T03:35:52.473Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4424f1c6-9bdc-40da-b3cc-a45211303783",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 32796,
+        "director": "Christopher Nolan",
+        "duration": 74755,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO",
+        "created_at": "2023-08-05T13:01:02.523Z",
+        "updated_at": "2023-08-05T07:46:29.654Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "b3dab6b5-a000-40bf-a27f-8e14f7a5a9af",
+        "episode_number": 73780,
+        "title": "Pilot",
+        "duration": 10090,
+        "created_at": "2023-08-05T06:06:26.975Z",
+        "updated_at": "2023-08-05T12:17:24.955Z",
+        "season_id": "8ff747e8-0bd5-4e24-bb7c-21013fbf11b6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8cecc03-602f-4fdb-b93b-cc76396327f1",
+        "episode_number": 14164,
+        "title": "The One Where It All Began",
+        "duration": 62084,
+        "created_at": "2023-08-04T20:55:23.422Z",
+        "updated_at": "2023-08-05T20:07:41.193Z",
+        "season_id": "5c6e43c8-f1ee-4cbe-b68b-6fd590775384",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "653f4752-1515-4b15-bee4-c288a798effc",
+        "episode_number": 73553,
+        "title": "Winter Is Coming",
+        "duration": 1726,
+        "created_at": "2023-08-05T04:40:27.649Z",
+        "updated_at": "2023-08-05T08:25:41.664Z",
+        "season_id": "ca4456e9-5bd9-4776-9608-401e8a21359f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2cb25cd-317f-4ba8-920c-1831ecbcf58d",
+        "episode_number": 73056,
+        "title": "Pilot",
+        "duration": 61173,
+        "created_at": "2023-08-05T04:01:45.481Z",
+        "updated_at": "2023-08-05T01:50:24.412Z",
+        "season_id": "8ff747e8-0bd5-4e24-bb7c-21013fbf11b6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "378ffe62-f6f1-4ae7-a009-0de8ddab8d8b",
+        "episode_number": 75331,
+        "title": "Diversity Day",
+        "duration": 30728,
+        "created_at": "2023-08-05T16:39:12.757Z",
+        "updated_at": "2023-08-05T05:39:51.390Z",
+        "season_id": "5c6e43c8-f1ee-4cbe-b68b-6fd590775384",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "fffab0fb-91a5-4a44-adac-5e9e5a68dec3",
+        "timestamp": "2023-08-05T07:12:47.205Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-05T01:43:58.997Z",
+        "updated_at": "2023-08-04T22:04:30.848Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75944372-2926-47fd-88a8-68619ad51339",
+        "timestamp": "2023-08-05T06:08:37.984Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-05T04:15:15.324Z",
+        "updated_at": "2023-08-05T17:08:17.874Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9ef8414-e31d-48fe-85ce-5588d1be797c",
+        "timestamp": "2023-08-05T07:46:07.343Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T00:39:53.244Z",
+        "updated_at": "2023-08-05T03:21:07.587Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c22bf6c-b960-4d79-bc8b-8f7eb7b8622e",
+        "timestamp": "2023-08-05T00:14:05.939Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-05T12:16:27.913Z",
+        "updated_at": "2023-08-05T00:51:23.069Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "83306f8f-870d-437e-9306-0ff5e54cc398",
+        "timestamp": "2023-08-05T04:56:58.537Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-05T18:09:54.199Z",
+        "updated_at": "2023-08-05T19:49:14.384Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "series": [
+      {
+        "id": "fe23c339-fec4-405d-9792-6b55831948ce",
+        "title": "Stranger Things",
+        "genre": "Drama",
+        "release_year": 67358,
+        "director": "Duffer Brothers",
+        "description": "A group of kids in a small town uncover a dark secret",
+        "created_at": "2023-08-04T21:35:29.790Z",
+        "updated_at": "2023-08-05T06:54:02.972Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0cd6e5af-5f67-4b20-a7c5-78006f6d3e74",
+        "title": "Breaking Bad",
+        "genre": "Thriller",
+        "release_year": 520,
+        "director": "Vince Gilligan",
+        "description": "A high school chemistry teacher turned methamphetamine producer",
+        "created_at": "2023-08-04T22:54:22.365Z",
+        "updated_at": "2023-08-05T14:51:32.085Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9a1fd861-a2d1-4444-acaa-df42f23ab50a",
+        "title": "Game of Thrones",
+        "genre": "Fantasy",
+        "release_year": 67776,
+        "director": "David Benioff",
+        "description": "A battle for the Iron Throne in the Seven Kingdoms",
+        "created_at": "2023-08-05T15:43:46.624Z",
+        "updated_at": "2023-08-05T04:52:34.253Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d01dae4-e7c2-42fd-991b-86c6d21e7bcf",
+        "title": "Friends",
+        "genre": "Comedy",
+        "release_year": 82720,
+        "director": "Marta Kauffman",
+        "description": "A group of friends navigating life in New York City",
+        "created_at": "2023-08-05T06:39:10.053Z",
+        "updated_at": "2023-08-04T21:25:19.118Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eff5a034-47b8-4cbf-a9be-63887f2b9dc7",
+        "title": "The Office",
+        "genre": "Mystery",
+        "release_year": 41909,
+        "director": "Greg Daniels",
+        "description": "The daily lives of office employees at Dunder Mifflin",
+        "created_at": "2023-08-04T22:17:30.741Z",
+        "updated_at": "2023-08-04T22:40:43.164Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "season": [
+      {
+        "id": "bf7a4f4c-f707-4adb-bc57-6fdbffebae99",
+        "season_number": 9722,
+        "created_at": "2023-08-05T04:48:12.098Z",
+        "updated_at": "2023-08-05T04:45:19.295Z",
+        "series_id": "eff5a034-47b8-4cbf-a9be-63887f2b9dc7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d875e04-b7fa-4ac9-968a-07af9506f646",
+        "season_number": 15380,
+        "created_at": "2023-08-05T02:23:31.074Z",
+        "updated_at": "2023-08-05T03:44:07.412Z",
+        "series_id": "9a1fd861-a2d1-4444-acaa-df42f23ab50a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d445cc1-e6af-46cf-a9d8-0a3122c2ef71",
+        "season_number": 22529,
+        "created_at": "2023-08-05T04:46:55.198Z",
+        "updated_at": "2023-08-05T13:07:55.293Z",
+        "series_id": "2d01dae4-e7c2-42fd-991b-86c6d21e7bcf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e8f69e5-0b93-4bff-b22c-bfba60a39b24",
+        "season_number": 23881,
+        "created_at": "2023-08-04T23:52:54.200Z",
+        "updated_at": "2023-08-04T20:52:05.101Z",
+        "series_id": "fe23c339-fec4-405d-9792-6b55831948ce",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0882984f-acdc-4884-8b2b-bbf8d86b8e28",
+        "season_number": 41997,
+        "created_at": "2023-08-05T06:20:47.669Z",
+        "updated_at": "2023-08-05T13:28:21.337Z",
+        "series_id": "fe23c339-fec4-405d-9792-6b55831948ce",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "movie": [
+      {
+        "id": "aeb1198c-3259-4876-9f4c-9af5d4093297",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 75333,
+        "director": "Frank Darabont",
+        "duration": 86238,
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency",
+        "created_at": "2023-08-05T16:13:43.096Z",
+        "updated_at": "2023-08-05T19:27:00.726Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66b45de4-3293-4116-8c5f-7e29d109470f",
+        "title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 98288,
+        "director": "Francis Ford Coppola",
+        "duration": 49329,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son",
+        "created_at": "2023-08-04T23:09:52.542Z",
+        "updated_at": "2023-08-05T05:58:37.414Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f5d41c40-6d22-4508-8a8e-43d07bfaa0d9",
+        "title": "Pulp Fiction",
+        "genre": "Thriller",
+        "release_year": 45108,
+        "director": "Quentin Tarantino",
+        "duration": 98652,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption",
+        "created_at": "2023-08-05T10:19:03.387Z",
+        "updated_at": "2023-08-05T20:38:07.829Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ad7977a-3888-421f-ab6c-7d78df7417ba",
+        "title": "Fight Club",
+        "genre": "Action",
+        "release_year": 49389,
+        "director": "David Fincher",
+        "duration": 76303,
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more",
+        "created_at": "2023-08-05T01:04:27.980Z",
+        "updated_at": "2023-08-05T04:02:07.408Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "104494f5-5b8a-4bc6-8c7e-f01464cdbc47",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 53643,
+        "director": "Christopher Nolan",
+        "duration": 25356,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO",
+        "created_at": "2023-08-05T10:36:20.056Z",
+        "updated_at": "2023-08-05T19:34:13.255Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "episode": [
+      {
+        "id": "781b7267-cc9e-481e-891d-d9b58a4418a4",
+        "episode_number": 51909,
+        "title": "Pilot",
+        "duration": 92412,
+        "created_at": "2023-08-05T08:28:06.406Z",
+        "updated_at": "2023-08-05T19:46:20.667Z",
+        "season_id": "0882984f-acdc-4884-8b2b-bbf8d86b8e28",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9f8aa9b-4a06-4e5f-8cf2-df3c2256e7b9",
+        "episode_number": 20635,
+        "title": "The One Where It All Began",
+        "duration": 6391,
+        "created_at": "2023-08-05T02:27:38.253Z",
+        "updated_at": "2023-08-05T03:19:52.824Z",
+        "season_id": "2d875e04-b7fa-4ac9-968a-07af9506f646",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11eb0e86-d063-4e86-aa2a-bffaa16a5ab6",
+        "episode_number": 37211,
+        "title": "Winter Is Coming",
+        "duration": 41779,
+        "created_at": "2023-08-05T05:41:53.982Z",
+        "updated_at": "2023-08-05T19:03:50.734Z",
+        "season_id": "8d445cc1-e6af-46cf-a9d8-0a3122c2ef71",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "761d1dfd-3c4e-4fde-9621-d79ae46aef8e",
+        "episode_number": 66760,
+        "title": "Pilot",
+        "duration": 9102,
+        "created_at": "2023-08-04T22:42:50.787Z",
+        "updated_at": "2023-08-05T17:53:02.613Z",
+        "season_id": "5e8f69e5-0b93-4bff-b22c-bfba60a39b24",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e5704f04-d246-4427-bfe9-7594299f36b7",
+        "episode_number": 12472,
+        "title": "Diversity Day",
+        "duration": 71393,
+        "created_at": "2023-08-05T08:33:46.728Z",
+        "updated_at": "2023-08-05T03:36:36.376Z",
+        "season_id": "8d445cc1-e6af-46cf-a9d8-0a3122c2ef71",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "activity_log": [
+      {
+        "id": "4a1a3b2d-4ab9-4aa1-8b31-bea966139621",
+        "timestamp": "2023-08-04T21:41:55.099Z",
+        "action": "Login",
+        "resource": "User",
+        "created_at": "2023-08-04T23:32:42.881Z",
+        "updated_at": "2023-08-05T15:22:01.812Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad82902f-4f9a-4cd3-9f29-ef4a9ce40420",
+        "timestamp": "2023-08-04T22:27:46.107Z",
+        "action": "Create",
+        "resource": "Series",
+        "created_at": "2023-08-04T21:47:03.742Z",
+        "updated_at": "2023-08-05T03:15:18.533Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a7475e3-4010-4720-9b7e-99c9c1f2d801",
+        "timestamp": "2023-08-05T15:47:30.414Z",
+        "action": "Update",
+        "resource": "Organization",
+        "created_at": "2023-08-05T18:37:04.821Z",
+        "updated_at": "2023-08-05T14:43:08.499Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b271c901-7fe0-41cb-bdf3-fb3806090700",
+        "timestamp": "2023-08-05T14:03:00.876Z",
+        "action": "Delete",
+        "resource": "Movie",
+        "created_at": "2023-08-04T21:17:14.149Z",
+        "updated_at": "2023-08-05T11:21:10.935Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e241862-5744-463c-9143-32fa10303bca",
+        "timestamp": "2023-08-05T02:34:44.695Z",
+        "action": "View",
+        "resource": "Episode",
+        "created_at": "2023-08-05T13:54:08.595Z",
+        "updated_at": "2023-08-04T22:33:01.471Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  }
+]
